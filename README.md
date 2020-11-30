@@ -1,22 +1,3 @@
-**This firmware is maintained by TH3D. The goal is an easy to use firmware for boards that we have added support for.**
+**This firmware is no longer maintained. Use the new Unified 2 firmware here: [https://github.com/th3dstudio/UnifiedFirmware](https://github.com/th3dstudio/UnifiedFirmware)**
 
-**Current Board Support for this Version**
-
-- Kingroon KP3 using MKS Robin Nano
-
-**The issues queue has been disabled as some people do not understand it's for firmware problems and not technical support.**
-
-----------
-
-- EZABL Auto Bed Leveling Kits: [EZABL.TH3DStudio..com](http://ezabl.th3dstudio.com)
-- EZOut: [EZOut.TH3DStudio.com](http://EZOut.TH3DStudio.com)
-- All Products: [TH3D Shop](https://www.th3dstudio.com/shop/)
-
-----------
-
-**THIS IS PROVIDED UNDER THE GPL V3 LICENSE.
-PROVIDED AS-IS. NO SUPPORT OR WARRANTY IS PROVIDED.**
-
-Based on [Marlin](http://marlinfw.org) 2.0 and our own custom additions. 
-
-If you have a custom machine it is best to use vanilla [Marlin](http://marlinfw.org).
+**Download the latest for the KP3 from here: [https://support.th3dstudio.com/hc/en-us/articles/360043728351-Kingroon-KP-3-Firmware-Robin-Mini-Board](https://support.th3dstudio.com/hc/en-us/articles/360043728351-Kingroon-KP-3-Firmware-Robin-Mini-Board)**
